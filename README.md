@@ -1,36 +1,47 @@
 <div align="center">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&fontColor=FFFFFF&fontAlign=50&animation=fadeIn" />
 </div>
 
-###
+<h1 align="center">👋 Hey there, I'm Mohamed</h1>
+<h3 align="center">Web Development & Multimedia Student at ISET</h3>
 
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<h1 align="center">Hi 👋, I'm mohamed</h1>
-<h3 align="center">i am a student in iset ( web dev and multimedia )</h3>
-
-
-
-- 🌱 I’m currently learning **angular (**
-
-- 💬 Ask me about **html,css,javascript,sql,**
-
-- 📫 How to reach me **benmohamedm715@gmail.com**
-
-
-<p align="left">
+<p align="center">
+  🌱 Currently learning <strong>Angular</strong> and improving my frontend skills<br>
+  💬 Ask me about <strong>HTML, CSS, JavaScript, SQL</strong><br>
+  📫 Reach me at <a href="mailto:benmohamedm715@gmail.com">benmohamedm715@gmail.com</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-<br>
+---
 
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed-b-m&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="mohamed-b-m" /></p>
-<br>
+### 🚀 Tech Stack
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamed-b-m&show_icons=true&theme=tokyonight&locale=en" alt="mohamed-b-m" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,php,python,java,nodejs,mysql,figma,photoshop,illustrator&theme=light" />
+</p>
 
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-b-m&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-b-m&layout=compact&theme=gruvbox&hide_border=true" height="165"/>
+</div>
+
+---
+
+### 🧠 About Me
+- 🎓 I'm a student exploring the world of **web development** and **multimedia design**  
+- 💡 I enjoy learning new technologies and turning ideas into interactive projects  
+- 🎨 I like mixing **design** and **code** to build clean, creative interfaces  
+- 🚀 Always curious, always improving, one line of code at a time  
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="150" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
